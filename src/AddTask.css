@@ -1,0 +1,14 @@
+div.addTaskBox{
+    display: flex;
+    gap: 1rem;
+  }
+  div.addTaskBox input{
+    width: 20rem;
+    border: 1px solid rgb(211, 211, 211) ;
+    border-radius: 8px;
+    padding: 0 1rem;
+  }
+  div.addTaskBox button{
+    background-color: rgb(87, 87, 255);
+    color: aliceblue;
+  }

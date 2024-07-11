@@ -1,0 +1,13 @@
+button.btnDelete {
+    width: 8rem;
+    height: 2rem;
+    font-size: 0.8rem;
+    padding: 0;
+    background-color: rgb(255, 39, 39);
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    position: relative;
+    left: 15rem;
+}
